@@ -141,3 +141,6 @@ def update_link(request,pk):
 
 def shareprofile(request):
     return render(request, 'shareprofile.html')
+
+
+# this is main 
